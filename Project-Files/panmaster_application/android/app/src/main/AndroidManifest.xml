@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.panmaster_application">
    <application
-        android:label="panmaster_application"
+        android:label="Pan App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
